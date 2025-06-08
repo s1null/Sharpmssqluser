@@ -42,7 +42,7 @@ Sharpmssqluser.exe changepass -s 192.168.1.100 -u sa -p password123 -tu backdoor
 - `-s, --server`: SQL Server地址 (必需)
 - `-u, --username`: 连接用户名
 - `-p, --password`: 连接密码  
-- `-i, --integrated`: 使用集成身份验证
+- `-i, --integrated`: 使用windows身份验证
 - `-d, --database`: 目标数据库 (默认: master)
 
 ### 命令特定参数
