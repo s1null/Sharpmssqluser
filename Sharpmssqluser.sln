@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35919.96 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharpmssqluser", "Sharpmssqluser\Sharpmssqluser.csproj", "{405FA531-BF34-4F4F-859A-4D22797ED308}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharpmssqluser", "Sharpmssqluser.csproj", "{405FA531-BF34-4F4F-859A-4D22797ED308}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
